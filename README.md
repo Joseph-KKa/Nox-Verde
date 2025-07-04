@@ -9,6 +9,6 @@
 ---
 
 <div align="center">
-  <p><i>"Ideas into reality."</i></p>
+  <p><i>"ideas into reality."</i></p>
 </div>
 
