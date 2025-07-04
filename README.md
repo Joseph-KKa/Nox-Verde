@@ -2,13 +2,13 @@
 
   ![Hacker GIF](https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif)
   
-  # Shadow Operator
+  # Nox-Verde
 
 </div>
 
 ---
 
 <div align="center">
-  <p><i>"Knowledge is power. Information is liberation."</i></p>
+  <p><i>"Ideas into reality."</i></p>
 </div>
 
