@@ -1,1 +1,0 @@
-![yoyoy](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBqdHo1eHB0NXY1amFtODJ5aWN6dnF2MDlvNnA1OWkycWI3ZnRnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SPZcBO6C965mNsnCqL/giphy.gif)
