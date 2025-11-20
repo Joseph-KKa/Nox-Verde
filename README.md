@@ -3,7 +3,7 @@
 </p>
 ---
 
-🕶️ `root@you:~$ whoami`  
+🕶️ `user@user:~$ whoami`  
 `> just a curious mind in the matrix`
 
 ---
